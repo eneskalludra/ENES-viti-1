@@ -1,0 +1,21 @@
+p::first-line {
+    background-color: red;
+}
+
+p::before {
+    content: " ";
+    width: 10px;
+    height: 10px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+
+p::after {
+    content: " ";
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    display: inline-block;
+}
+    

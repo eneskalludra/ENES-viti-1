@@ -1,0 +1,107 @@
+.alea{
+    letter-spacing: 7px;
+}
+
+.furniture{
+    position: relative;
+    bottom: 25px;
+    letter-spacing: 6px;
+}
+
+.home{
+  
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 100px;
+    word-spacing: 100px; 
+   
+}
+
+.aleaa{
+    display: inline-block;
+}
+
+.h21{
+    margin: 20px;
+}
+
+.h22{
+    margin: 20px;
+}
+
+.h23{
+    margin: 20px;
+}
+
+.div1{
+    width: 600px;
+    height: 300px;
+    background-color: lightblue;    
+}
+
+.hello{
+   line-height: 50px;
+   padding-top: 30px;
+   padding-left: 30px;
+}
+
+.we{
+    padding-left: 30px;
+    line-height: 25px;
+}
+
+.our{
+    display: inline-block;
+    margin-left: 30px;
+    width: 170px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+.contact{
+    display: inline-block;
+    margin-left: 50px;
+    border: 2px solid black;
+    width: 170px;
+    height: 49px;
+    text-align: center;
+}
+
+img{
+    width: 1065px;
+    height: 300px;
+}
+
+.img{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 300px;
+}
+
+.one{
+    position: relative;
+    bottom: 270px;
+    left: 50px;
+}
+
+span{
+    color: lightblue;
+}
+
+.lorem{
+    width: 1065px;    
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    left: 585px;
+    bottom: 375px;
+}
+
+.index1{
+     text-decoration: none;
+     color: black;
+}

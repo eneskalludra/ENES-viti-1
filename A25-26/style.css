@@ -1,0 +1,30 @@
+.contanier{
+    display: flex;    
+    align-items: flex-end;
+   }
+
+.box1{
+   background-color: brown;
+    
+}
+.box2{
+    background-color: red;
+     
+ }
+ .box3{
+    background-color: blue;
+     
+ }
+ .box4{
+    background-color: pink;
+     
+ }
+ .box5{
+    background-color: grey;
+     
+ }
+ .box6{
+    background-color: green;
+     
+ }
+

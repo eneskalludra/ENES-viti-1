@@ -1,0 +1,20 @@
+/*
+div{
+    height: 920px;
+    width: 1660px;
+    background-image: linear-gradient(to bottom right, red,yellow,blue,green);
+
+}
+*/
+
+.hero{
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(
+        90deg,
+        rgba(2,3,61,0.8)  0%,
+        rgba(0,168,255,0.8)100%
+    ),
+    url("https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+    background-size: cover;
+}

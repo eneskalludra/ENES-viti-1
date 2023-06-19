@@ -1,0 +1,56 @@
+body{
+    background-color: skyblue;
+}
+
+.div1{
+    background-color: darkblue;
+    width: 1600px;
+    height: 900px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+h1{
+   color: white;
+   padding-left: 100px;
+   padding-top: 50px;
+}
+
+.p1{
+    color: skyblue;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+.img1{
+    width: 40px;
+    padding-left: 120px;
+    padding-top: 150px;
+    display: inline-block;
+}
+
+
+.p2{
+    color: skyblue;
+    position: relative;
+    left: 20px;
+    bottom: 17px;
+    display: inline-block;
+}
+
+.img2{
+    width: 40px;        
+    display: inline-block;
+    position: relative;
+    top: 90px;
+    right: 160px;
+}
+
+.p3{
+    color: skyblue;
+    position: relative;
+    right: 135px;
+    top: 75px;
+    display: inline-block;
+}

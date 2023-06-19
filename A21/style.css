@@ -1,0 +1,43 @@
+/*
+.box{
+    width: 150px;
+    height: 150px;    
+}
+
+.orange{
+    background-color: orange;    
+   position: absolute;
+   top: 40px;
+   left: 40px;
+}
+
+.blue{
+    background-color: lightblue;       
+} */
+/*
+.box{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+.child{
+    width: 80px;
+    height: 80px;
+    background-color: orange;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+} */
+
+.footer{
+    background-color: lightblue;
+    opacity: 0.83;
+    height: 80px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}

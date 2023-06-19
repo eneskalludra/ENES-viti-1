@@ -1,0 +1,44 @@
+div{
+    overflow: hidden;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.d{
+    float: left;
+    border: 2px solid blue;
+    clear: both;
+    color: blue;
+}
+
+.e{
+    float: left;   
+    border: 2px solid green;
+    color: green;
+}
+
+.f{
+    float: left;
+    border: 2px solid red;
+    color: red;
+}
+
+.b{
+    float: left;
+    border: 2px solid red;
+    clear: both;
+    color: red;
+}
+
+.c{
+    float: left;
+    border: 2px solid green;
+    color: green;
+}
+
+.a{
+    border: 2px solid blue;
+    float: left;    
+    box-sizing: border-box;
+    color: blue;
+}

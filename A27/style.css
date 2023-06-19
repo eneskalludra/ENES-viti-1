@@ -1,0 +1,55 @@
+.box1{
+    height: 80px;
+    width: 100%;   
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.img1{ 
+    width: 20px;
+  position: relative;
+  right: 80px;
+ 
+}
+
+.img2{
+    width: 20px;
+    position: relative;
+    right: 50px;
+   
+}
+
+.img3{
+    width: 60px;
+    border-radius: 100px;
+    position: relative;
+    right: 20px;
+    top: 20px;
+}
+
+.h22{
+    position: relative;
+    top: 100px;
+}
+
+.p2{
+    position: relative;
+    top: 105px;
+}
+
+.box4{
+    width: 400px;
+    height: 70px;
+    box-shadow: 0px 0px 10px 1px grey;
+    background-color: white;
+    position: relative;
+    top: 100px;
+}
+
+.img4{
+  width: 60px;
+  border-radius: 100px;
+  display: flex;
+  
+}

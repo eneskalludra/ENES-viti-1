@@ -1,0 +1,25 @@
+
+img{
+    max-width: 100%;
+}
+
+div{
+    width: 800PX;
+    display: inline-block;
+    
+}
+
+.div2{
+    background-color: lightblue;
+    width: 220px;
+}
+
+img{
+    width: 800px;
+}
+
+@media only screen and (max-width: 600px)  {
+    body{
+        display: inline;
+    }
+}

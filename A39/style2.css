@@ -1,0 +1,14 @@
+:root{
+    --primary: #1e90ff;
+    --secondary: #ffffff;
+}
+
+
+body {
+    background-color: var(--primary);
+}
+
+h2 {
+    border-bottom: 2px solid var(--secondary);
+}
+

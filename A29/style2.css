@@ -1,0 +1,127 @@
+.alea{
+    letter-spacing: 7px;
+}
+
+.furniture{
+    position: relative;
+    bottom: 25px;
+    letter-spacing: 6px;
+}
+
+.home{
+  
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 100px;
+    word-spacing: 100px; 
+   
+}
+
+.aleaa{
+    display: inline-block;
+}
+
+.h21{
+    margin: 20px;
+}
+
+.h22{
+    margin: 20px;
+}
+
+.h23{
+    margin: 20px;
+}
+
+.index1{
+    text-decoration: none;
+    color: black;
+}
+
+.products{
+    position: relative;
+    bottom: 60px;
+}
+
+.best{
+    position: relative;
+    left: 300px;
+    bottom: 108px;
+    color: rgb(125, 125, 125);
+}
+
+.most{
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+}
+
+
+p{
+    display: inline-block;
+    position: relative;    
+}
+
+.all{
+    position: relative;
+    left: 600px;
+    bottom: 130px;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+
+.back{
+ background-color: rgb(227, 227, 227);
+ width: 400px;
+ height: 2px;
+ position: relative;
+    left: 600px;
+    bottom: 140px;
+}
+
+
+.chair{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 100px;
+    left: 180px;    
+    border-radius: 20px 20px 0px 0px;
+}
+
+.imgchair{
+    width: 200px;
+}
+
+.closetto{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 320px;
+    left: 700px;    
+    border-radius: 20px 20px 0px 0px;
+}
+
+.imgcloset{
+    width: 200px;
+}
+
+
+.dresser{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 535px;
+    left: 1280px;    
+    border-radius: 20px 20px 0px 0px;
+}
+
+.imgdresser{
+    width: 200px;
+}
